@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimplyBooks", "SimplyBooks.csproj", "{8E1FFED2-648C-A6B2-AD7A-DDB9DC6B426A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8E1FFED2-648C-A6B2-AD7A-DDB9DC6B426A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E1FFED2-648C-A6B2-AD7A-DDB9DC6B426A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E1FFED2-648C-A6B2-AD7A-DDB9DC6B426A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E1FFED2-648C-A6B2-AD7A-DDB9DC6B426A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {11D0E728-F45E-4692-AF0D-D41D491EDCBD}
+	EndGlobalSection
+EndGlobal
